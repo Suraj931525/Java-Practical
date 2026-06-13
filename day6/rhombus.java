@@ -6,6 +6,7 @@ for(int j=4;j>=i;j--){
 System.out.print(" ");
 }
 for(int y=1;y<=4;y++){
+}
 System.out.print("*");
 
 }
